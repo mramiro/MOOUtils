@@ -48,7 +48,7 @@ my algorithms.
 Both as an exercise and hoping that my code is of any use to anyone in the same line of research, I decided to document
 it and repurposed it as a C library. Feel free to use it (and maybe even expand it).
 
-Special thanks to Nebro and Durillo's [jMetal framework](jmetal.sourceforge.net/), for providing me a way of comparing
+Special thanks to Nebro and Durillo's [jMetal framework](http://jmetal.sourceforge.net/), for providing me a way of comparing
 implementations and results.
 
 --Miguel &Aacute;. Ramiro 
